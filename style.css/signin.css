@@ -55,7 +55,7 @@ header {
 
 .container {
     padding-top: 100px;
-    margin-left: 430px;
+    margin-left: 350px;
     padding: 10px;
     width: 550px;
     height: 500px;
@@ -129,7 +129,7 @@ form .btn:active {
 }
 
 .footer-basic ul {
-    margin-left: 510px;
+    margin-left: 450px;
     display: flex;
     padding: 0;
     list-style: none;
